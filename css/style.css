@@ -295,12 +295,12 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box img{
-    height:70% !important;
+    height:75% !important;
     width:100%;
     object-fit: cover;
 }
 .portfolio .box-container .box a{
-    height:30% !important;
+    height:25% !important;
     width:100%;
    color:white;
     text-dicoration:none;
