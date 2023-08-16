@@ -175,7 +175,7 @@ header .navbar ul li a:hover{
     padding: 1rem 0;
 }
 
-.about .row{
+/* .about .row{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -194,9 +194,9 @@ header .navbar ul li a:hover{
     color:var(--yellow);
     padding:1rem 0;
     font-weight: normal;
-}
+} */
 
-.about .row .info h3 span{
+/* .about .row .info h3 span{
     color:#eee;
     padding:0 .5rem;
 }
@@ -214,9 +214,9 @@ header .navbar ul li a:hover{
     text-align: center;
     padding: 2rem;
     margin:2rem;
-}
+} */
 
-.about .row .counter .box span{
+/* .about .row .counter .box span{
     font-size: 4rem;
     color:var(--yellow);
 }
@@ -224,9 +224,9 @@ header .navbar ul li a:hover{
 .about .row .counter .box h3{
     font-size: 2rem;
     color:#fff;
-}
+} */
 
-.education .box-container{
+/* .education .box-container{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -249,9 +249,9 @@ header .navbar ul li a:hover{
     color:#fff;
     border-radius: 5rem;
     padding:.5rem 2.5rem;
-}
+} */
 
-.education .box-container .box h3{
+/* .education .box-container .box h3{
     font-size: 2rem;
     color:#fff;
     padding-top: 1.5rem;
@@ -274,7 +274,7 @@ header .navbar ul li a:hover{
     font-size: 2rem;
     color:#fff;
     background:var(--yellow);
-}
+} */
 
 .portfolio .box-container{
     display: flex;
@@ -307,9 +307,8 @@ header .navbar ul li a:hover{
 }
 .portfolio .box-container .box a h2{
    color:white;
-    background-color:red;
-    
-
+    font-weight:900;
+    font-size:30px;
 }
 
 .portfolio .box-container .box img:hover{
