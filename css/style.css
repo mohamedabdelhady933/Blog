@@ -404,11 +404,18 @@ header .navbar ul li a:hover{
 .cve{
 
 color:white !important;
+    z-index:1111111111;
+    background-color:red;
+    text-color:white;
 }
 
 .cve h2{
 
 color:white !important;
+       z-index:1111111111;
+
+        background-color:red;
+    text-color:white;
 }
 
 
