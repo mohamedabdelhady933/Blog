@@ -286,7 +286,7 @@ header .navbar ul li a:hover{
 
 .portfolio .box-container .box{
     height: 20rem;
-    width:26rem;
+    width:40rem;
     border-radius: 1rem;
     margin:2rem;
     overflow: hidden;
@@ -294,7 +294,7 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box img{
-    height:100%;
+    height:70%;
     width:100%;
     object-fit: cover;
 }
@@ -403,20 +403,10 @@ header .navbar ul li a:hover{
 
 .cve{
 
-color:white !important;
-    z-index:1111111111;
-    background-color:red;
-    text-color:white;
+    height:30%;
+    width:100%;
 }
 
-.cve h2{
-
-color:white !important;
-       z-index:1111111111;
-
-        background-color:red;
-    text-color:white;
-}
 
 
 
