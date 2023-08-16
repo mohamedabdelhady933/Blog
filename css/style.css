@@ -294,16 +294,16 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box img{
-    height:70% !important;
+    height:60% !important;
     width:100%;
     object-fit: cover;
 }
 .portfolio .box-container .box a{
-    height:30% !important;
+    height:50% !important;
     width:100%;
    color:white;
-    background-color:red;
-    
+    text-dicoration:none;
+    font-weight:900;
 }
 .portfolio .box-container .box a h2{
    color:white;
