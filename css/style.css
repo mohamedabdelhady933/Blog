@@ -306,6 +306,11 @@ header .navbar ul li a:hover{
 cursor: pointer;
 
 }
+.portfolio .box-container .box a:hover{
+    color:var(--yellow);
+
+}
+
 .portfolio .box-container .box a h2{
    color:white;
     
