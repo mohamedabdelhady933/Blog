@@ -309,7 +309,7 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box a:hover{
-    background-color:var(--yellow);
+    background:var(--yellow);
     color:white;
 
 }
