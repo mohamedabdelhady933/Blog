@@ -294,7 +294,7 @@ header .navbar ul li a:hover{
 }
 
 .portfolio .box-container .box img{
-    height:60% !important;
+    height:50% !important;
     width:100%;
     object-fit: cover;
 }
@@ -307,14 +307,15 @@ header .navbar ul li a:hover{
 }
 .portfolio .box-container .box a h2{
    color:white;
+    
   font-size: 21px;
     text-align: center;
 font-weight:bolder;
 }
 
-.portfolio .box-container .box img:hover{
+/* .portfolio .box-container .box img:hover{
     transform: scale(1.2);
-}
+} */
 
 .contact .row{
     display: flex;
