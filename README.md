@@ -1,2 +1,2 @@
-# My-Portfolio
-My Portfolio (HTML+CSS+JS+JQuery)
+# Blog
+My Blog 
