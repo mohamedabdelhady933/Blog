@@ -290,7 +290,7 @@ header .navbar ul li a:hover{
     border-radius: 1rem;
     margin:2rem;
     overflow: hidden;
-    cursor: pointer;
+ 
 }
 
 .portfolio .box-container .box img{
@@ -303,6 +303,7 @@ header .navbar ul li a:hover{
     width:100%;
    color:white;
     text-dicoration:none;
+cursor: pointer;
 
 }
 .portfolio .box-container .box a h2{
@@ -311,6 +312,7 @@ header .navbar ul li a:hover{
   font-size: 21px;
     text-align: center;
 font-weight:bolder;
+       cursor: pointer;
 }
 
 /* .portfolio .box-container .box img:hover{
