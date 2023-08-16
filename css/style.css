@@ -284,7 +284,7 @@ header .navbar ul li a:hover{
     padding:2rem 0;
 }
 
-.portfolio .box-container .box{
+.portfolio .box-container .cve{
     height: 50rem;
     width:40rem;
     border-radius: 1rem;
@@ -297,6 +297,19 @@ header .navbar ul li a:hover{
     height:70% !important;
     width:100%;
     object-fit: cover;
+}
+.portfolio .box-container .box a{
+    height:30% !important;
+    width:100%;
+   color:white;
+    background-color:red;
+    
+}
+.portfolio .box-container .box a h2{
+   color:white;
+    background-color:red;
+    
+
 }
 
 .portfolio .box-container .box:hover img{
