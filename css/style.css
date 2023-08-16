@@ -290,6 +290,7 @@ header .navbar ul li a:hover{
     border-radius: 1rem;
     margin:2rem;
     overflow: hidden;
+    border:1px solid #333;
  
 }
 
@@ -307,7 +308,8 @@ cursor: pointer;
 
 }
 .portfolio .box-container .box a:hover{
-    color:var(--yellow);
+    background-color:var(--yellow);
+    color:white
 
 }
 
